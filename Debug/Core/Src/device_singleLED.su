@@ -1,0 +1,11 @@
+device_singleLED.c:10:6:blinkingYELLOW	8	static
+device_singleLED.c:16:6:blinkingRED	8	static
+device_singleLED.c:21:6:blinkingGREEN	8	static
+device_singleLED.c:26:6:offAllSingLEDs	8	static
+device_singleLED.c:31:6:onAllSingLEDs	8	static
+device_singleLED.c:36:6:onSingleRedTraffic1	8	static
+device_singleLED.c:40:6:onSingleYellowTraffic1	8	static
+device_singleLED.c:45:6:onSingleGreenTraffic1	8	static
+device_singleLED.c:50:6:onSingleRedTraffic2	8	static
+device_singleLED.c:54:6:onSingleYellowTraffic2	8	static
+device_singleLED.c:59:6:onSingleGreenTraffic2	8	static

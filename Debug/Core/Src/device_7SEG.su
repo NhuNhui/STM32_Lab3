@@ -1,0 +1,5 @@
+device_7SEG.c:11:6:update7SEGBuffer	16	static
+device_7SEG.c:31:6:update7SEGBufferTraffic1	16	static
+device_7SEG.c:36:6:update7SEGBufferTraffic2	16	static
+device_7SEG.c:41:6:update7SEGBufferMode	16	static
+device_7SEG.c:46:6:DISPLAYALL7SEG	8	static
